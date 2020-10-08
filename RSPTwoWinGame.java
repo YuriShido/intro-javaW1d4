@@ -71,7 +71,7 @@ public class RSPTwoWinGame {
         
       }  
       else 
-      System.out.println("Next raund!");
+      System.out.println("Next round!");
 
     }
     
