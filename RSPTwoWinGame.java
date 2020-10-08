@@ -69,8 +69,10 @@ public class RSPTwoWinGame {
   
         System.out.println("Finish! You are win!");
         
-      }      
-      
+      }  
+      else 
+      System.out.println("Next raund!");
+
     }
     
   }
